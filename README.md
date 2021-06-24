@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Gomeask" src="src/assets/images/logo.svg" width="160px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
 
-## Available Scripts
+  <!-- <img src="https://img.shields.io/github/forks/Husky-Hustler/Letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks"> -->
 
-In the project directory, you can run:
+  <!-- <img src="https://img.shields.io/github/stars/Husky-Hustler/Letmeask?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars"> -->
+</p>
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🧪 Technologies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project was developed using the following technologies:
 
-### `yarn test`
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Getting started
 
-### `yarn build`
+Clone the project and access the folder.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+$ git clone https://github.com/Husky-Hustler/Letmeask.git
+$ cd letmeask
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Follow the steps below:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Install the dependencies
+$ yarn
 
-### `yarn eject`
+# Start the project
+$ yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The app will be available for access on your browser at http://localhost:3000
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔖 Layout
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+You can view the project layout through the links below:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
 
-## Learn More
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+---
+
+<p align="center">
+Made with 💜 by Alan Christian
+</p>
