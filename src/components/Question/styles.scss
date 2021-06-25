@@ -12,6 +12,20 @@
     margin-top: 8px;
   }
 
+
+  &.highLighted {
+    background: #f4f0ff;
+    border: 1px solid green;
+
+    footer .user-info span {
+      color: #29292e;
+    }
+  }
+
+  &.answered {
+    background: #dbdcdd;
+  }
+
   p {
     color: #29292e;
   }
@@ -41,6 +55,11 @@
         color: #737380;
         font-size: 14px;
       }
+    }
+
+    > div {
+      display: flex;
+      gap: 18px;
     }
 
     button {
